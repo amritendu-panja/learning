@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Amrit.BookStore/.vs/Amrit.BookStore/v17
+/Amrit.BookStore/Amrit.BookStore/obj
+/Amrit.BookStore/Amrit.BookStore/bin/Debug/net6.0
+/Amrit.BookStore/Amrit.BookStore/Amrit.BookStore.csproj.user
+/Amrit.BookStore/.vs/Amrit.BookStore/config
